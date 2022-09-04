@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Sirtra First Year Courses</title>
+</head>
+
+<body>
+    <h2>First Level Lessons</h2>
+
+    <h3 class="classTitle"></h3>
+    <h4 class="classTeacher"></h4>
+    <h5 class="classRoom"></h5>
+    <div class="classDetails">
+        <h4>Welcome to Magical Tinkering!</h4>
+        <p>Artificing is the art of magical tinkering, making incredible tools, weapons, and armour and infusing them with a magic to make them stronger and more versatile than ever before.</p>
+        <p>Artificers are useful on and off the battlefield, and if you wanted to take more of a support role them this is the one for you. Many artificers find roles in cities, providing the tools that adventurers need to survive.<p>
+        <h5>In this class you will learn:</h5>
+        <ul>
+            <li>
+                <h5>Magical Tinkering</h5>
+                <p>Our first lesson will be to invest a spark into otherwise mundane magical objects. In this beginngers class we will be learning:</p>
+                <ul>
+                    <li>Allowing a light to spread in a 10-foot radius</li>
+                    <li>Recording a short message to be played when the object is touched</li>
+                    <li>Allowing an odor or a non-verbal sound to continuiously emit from an object</li>
+                    <li>Allowing a static visual effect up to 25 words or simple shapes</li>
+                </ul>
+            </li>
+            <li>
+                <h5>Mechanical Spellcasting</h5>
+                <p>We will also cover some basic spellcasting, as well as the ability to use your creations as a focus for your magical casting</p>
+                <p>An example of the spells we cover are:</p>
+                <h6>Cantrips</h6>
+                    <ul>
+                        <li>Acid Splash</li>
+                        <li>Booming Blade</li>
+                        <li>Create Bonfire</li>
+                        <li>Dancing Lights</li>
+                        <li>Firebolt</li>
+                        <li>Frostbite</li>
+                        <li>Green-Flame Blade</li>
+                        <li>Guidance</li>
+                        <li>Light</li>
+                        <li>Lightning Lure</li>
+                        <li>Mage Hand</li>
+                        <li>Magic Stone</li>
+                        <li>Mending</li>
+                        <li>Message</li>
+                        <li>Poison Spray</li>
+                        <li>Prestidigitation</li>
+                        <li>Ray of Frost</li>
+                        <li>Resistance</li>
+                        <li>Shocking Grasp</li>
+                        <li>Spare the Dying</li>
+                        <li>Sword Burst</li>
+                        <li>Thorn Whip</li>
+                        <li>Thunderclap</li>
+                    </ul>
+            </li>
+        </ul>
+    </div>
+</body>
+
+</html> 
