@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Sirtra First Year Courses</title>
+</head>
+
+<body>
+    <h2>First Level Lessons</h2>
+
+    <h3 class="classTitle">Cleric 101</h3>
+    <h4 class="classTeacher"></h4>
+    <h5 class="classRoom"></h5>
+    <div class="classDetails">
+        <h4>Divinity Casting</h4>
+        <p>Some of us most lucky in life can devote their lives to a God and gain power in return. If this is something that feels good to you; or you already have the favour of a God, then becoming a Cleric is for you.</p>
+        <p>Most people associate Clerics with pure support, however depending on your God it's easy to fall into a more up front and active role if that is something you were wanting to do. But always remember! A Party is only as strong as their healers!<p>
+        <h4>Elective Classes</h4>
+        <p>We have seperate elective classes available for seperate Gods, and domains. If you know which God you wish to follow, then that's great! If not, the first few weeks we allow you to audit multiple classes to allow you to choose whatever is best for you.</p>
+        <ul>
+            <li>
+                <h5>Ambition Domain</h5>
+                <h6>Spells to Learn:</h6>
+                <ul>
+                    <li>Bane</li>
+                    <li>Disguise Self</li>
+                </ul>
+                <h6>Other Abilities</h6>
+                <p>Warding Flare</p>
+            </li>
+            <li>
+                <h5>Arcana Domain</h5>
+                <h6>Spells to Learn:</h6>
+                <ul>
+                    <li>Detect Magic</li>
+                    <li>Magic Missile</li>
+                </ul>
+                <h6>Other Abilities</h6>
+                <p>You will learn proficiency in the Arcana skill, along with two cantrips taught by a teacher from the Wizarding School</p>
+            </li>
+            <li>
+                <h5>City Domain</h5>
+                <h6>Spells to Learn:</h6>
+                <ul>
+                    <li>Comprehend Languages</li>
+                    <li>Remote Access</li>
+                </ul>
+                <h6>Other Abilities</h6>
+                <p>You will gain the on/off cantrip, proficiency with sidearms and land vehicles, and you can gain advantage on charisma checks in the city</p>
+            </li>
+            <li>
+                <h5>Death Domain</h5>
+                <h6>Spells to Learn:</h6>
+                <ul>
+                    <li>False Life</li>
+                    <li>Ray of Sickness</li>
+                </ul>
+                <h6>Other Abilities</h6>
+                <p>You can one nectromancy cantrip of your choice, taught by one of the necromancy teachers from the Wizarding department</p>
+            </li>
+            <li>
+                <h5>Fate Domain</h5>
+                <h6>Spells to Learn:</h6>
+                <ul>
+                    <li>Dissonant Whispers</li>
+                    <li>Heroism</li>
+                    <li>Augury</li>
+                </ul>
+                <h6>Other Abilities</h6>
+                <p>You will learn how to bind your fate to that of another, either willing or unsilling to know where that target is at all times.</p>
+            </li>
+            <li>
+                <h5>Forge Domain</h5>
+                <h6>Spells to Learn:</h6>
+                <ul>
+                    <li>Identify</li>
+                    <li>Searing Smite</li>
+                </ul>
+                <h6>Other Abilities</h6>
+                <p>You will learn the ability to imbue magic into a weapon or armor; learning from our Artificing department</p>
+            </li>
+            <li>
+                <h5>Grave Domain</h5>
+                <h6>Spells to Learn:</h6>
+                <ul>
+                    <li>Bane</li>
+                    <li>False Life</li>
+                    <li>Spare the Dying</li>
+                </ul>
+                <h6>Other Abilities</h6>
+                <p>Circle of Mortality</p>
+                <p>Eyes of the Grave
+            </li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+        </ul>
+    </div>
+</body>
+
+</html> 
