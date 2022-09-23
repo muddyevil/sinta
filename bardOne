@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Sirtra First Year Courses</title>
+</head>
+
+<body>
+    <h2>First Level Lessons</h2>
+
+    <h3 class="classTitle"></h3>
+    <h4 class="classTeacher"></h4>
+    <h5 class="classRoom"></h5>
+    <div class="classDetails">
+        <h4>Welcome to the wonderful world of Musical Magic!</h4>
+        <p>Whether it's classical or prog rock; the world runs on music. So why wouldn't we want to harness it into our magical casting as well? If you want to make the world a more wonderful place, then becoming a Bard is for you.</p>
+        <p>Bards are rarely quiet and solitary. They're an integral part of any party, helping others around feel inspired and better than they did before.<p>
+        <h5>In this class you will learn:</h5>
+        <ul>
+            <li>
+                <h5>Magical Inspiration</h5>
+                <p>Our first lesson will be how to give inspiration to those around you, improving their performances above and beyond what they can do themselves.</p>
+            </li>
+            <li>
+                <h5>Musical Spellcasting</h5>
+                <p>We will also cover some basic spellcasting, as well as the ability to use your music as a focus for your magical casting</p>
+                <p>An example of the spells we cover are:</p>
+                <h6>Cantrips</h6>
+                    <ul>
+                        <li>Blade Ward</li>
+                        <li>Dancing Lights</li>
+                        <li>Friends</li>
+                        <li>Light</li>
+                        <li>Mage Hand</li>
+                        <li>Mending</li>
+                        <li>Message</li>
+                        <li>Minor Illusion</li>
+                        <li>Prestidigitation</li>
+                        <li>Thunderclap</li>
+                        <li>True Strike</li>
+                        <li>Vicious Mockery</li>
+                    </ul>
+                <h6>Level One</h6>
+                    <ul>
+                        <li>Animal Friendship</li>
+                        <li>Bane</li>
+                        <li>Charm Person</li>
+                        <li>Color Spray</li>
+                        <li>Command</li>
+                        <li>Comprehend Languages</li>
+                        <li>Cure Wounds</li>
+                        <li>Detect Magid</li>
+                        <li>Disguise Self</li>
+                        <li>Dissonant Whispers</li>
+                        <li>Distort Value</li>
+                        <li>Earth Tremor</li>
+                        <li>Faerie Fire</li>
+                        <li>Feather Fall</li>
+                        <li>Healing Word</li>
+                        <li>Heroism</li>
+                        <li>Identify</li>
+                        <li>Illusory Script</li>
+                        <li>Longstrider</li>
+                        <li>Silent Image</li>
+                        <li>Silvery Barbs</li>
+                        <li>Sleep</li>
+                        <li>Speak with Animals</li>
+                        <li>Tasha's Hideos Laughter</li>
+                        <li>Thunderwave</li>
+                        <li>Unseen Servant</li>
+                    </ul>
+            </li>
+        </ul>
+    </div>
+</body>
+
+</html> 
